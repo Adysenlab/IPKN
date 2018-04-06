@@ -275,6 +275,6 @@ TSWLatexianTemp*
 
 # additional folders to be excluded 
 build/*
-docs/*
+
 
 # End of https://www.gitignore.io/api/c++,latex,cmake
